@@ -19,9 +19,7 @@ a:hover, a:active {
 	margin: 0 auto;
 }
 
-
-
-/* HEADER =================================================================== */
+/* HEADER ====================================================================== */
 
 .header {
 	display: flex;
@@ -65,12 +63,12 @@ a:hover, a:active {
 }
 
 .mainNavs {
-	border-radius: 10px;
+	border-radius: 30px;
 	padding: 15px 5px 15px 5px;
 	background-color: #000;
 }
 
-/* MAIN CONTENTS ============================================================ */
+/* MAIN CONTENTS =============================================================== */
 
 .hr1 {
 	margin-top: 100px;
@@ -98,7 +96,7 @@ a:hover, a:active {
 /* SVG ICONS START ============================================================= */
 
 .hr2 {
-	margin-top: 100px;
+	margin-top: 80px;
 	margin-bottom: 100px;
   border-width: 3px;
 }
@@ -111,44 +109,98 @@ a:hover, a:active {
 	margin-bottom: 40px;
 }
 
-#i1 {
-	width: 600%; display: inline-block; padding: 1em;
+#guitar {
+	width: 100%; display: inline-block; padding: 1em;
 }
 
-#i2 {
-	width: 600%; display: inline-block; padding: 1em;
+#guitar:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
 }
 
-#i3 {
-	width: 600%; display: inline-block; padding: 1em;
+#gamePad {
+	margin-top: 90px;
+	width: 100%; display: inline-block; padding: 1em;
 }
 
-#i4 {
-	width: 600%; display: inline-block; padding: 1em;
+#gamePad:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
 }
 
-#i5 {
-	width: 600%; display: inline-block; padding: 1em;
+#laptop {
+	margin-top: 90px;
+	width: 100%; display: inline-block; padding: 1em;
 }
 
-#i6 {
-	width: 600%; display: inline-block; padding: 1em;
+#laptop:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
 }
 
-#i7 {
-	width: 600%; display: inline-block; padding: 1em;
+#phone {
+	margin-top: 90px;
+	width: 100%; display: inline-block; padding: 1em;
 }
 
-#i8 {
-	width: 600%; display: inline-block; padding: 1em;
+#phone:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
 }
 
-#i9 {
-	width: 600%; display: inline-block; padding: 1em;
+#tv {
+	margin-top: 90px;
+	width: 100%; display: inline-block; padding: 1em;
 }
 
-#i0 {
-	width: 600%; display: inline-block; padding: 1em;
+#tv:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
+}
+
+#book {
+	width: 100%; display: inline-block; padding: 1em;
+}
+
+#book:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
+}
+
+#cooking {
+	width: 100%; display: inline-block; padding: 1em;
+}
+
+#cooking:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
+}
+
+#drawing {
+	width: 100%; display: inline-block; padding: 1em;
+}
+
+#drawing:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
+}
+
+#dumbbells {
+	width: 100%; display: inline-block; padding: 1em;
+}
+
+#dumbbells:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
+}
+
+#headphone {
+	width: 100%; display: inline-block; padding: 1em;
+}
+
+#headphone:hover {
+	background-color: #ffbe88;
+	cursor: pointer;
 }
 
 .icons1 {
@@ -164,3 +216,27 @@ a:hover, a:active {
 }
 
 /* SVG ICONS END =============================================================== */
+
+.hr3 {
+	margin-top: 80px;
+	margin-bottom: 100px;
+  border-width: 3px;
+}
+
+
+.bottomBar {
+	width: 980px;
+	height: 45px;
+}
+
+.copyright {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-right: 10px;
+}
+
+.copyright p {
+	font-weight: bold;
+	color: #000;
+}
