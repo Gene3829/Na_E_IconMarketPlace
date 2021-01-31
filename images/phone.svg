@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="phone" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 416.5 795.5" style="enable-background:new 0 0 416.5 795.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;stroke:#FFFFFF;stroke-width:0.6056;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+
+	#black-bg { cursor: pointer; }
+  #black-bg:hover { fill: #ff761a !important; }
+</style>
+<path id="black-bg" class="st0" d="M412.7,171.9V70c0-38.5-31.5-70-70-70H73.8c-38.5,0-70,31.5-70,70v34H0.3v30.9h3.5v37H0.3v56.5
+	h3.5V239H0.3v56.5h3.5v429.9c0,38.5,31.5,70,70,70h268.9c38.5,0,70-31.5,70-70V228.4h3.5v-56.5H412.7z"/>
+<path id="screen" class="st1" d="M387.2,693.1H29.4c-3.3,0-6-2.7-6-6V108.4c0-3.3,2.7-6,6-6h357.8c3.3,0,6,2.7,6,6v578.6
+	C393.2,690.4,390.5,693.1,387.2,693.1z"/>
+<circle id="home-button" class="st2" cx="208.3" cy="741.8" r="31.1"/>
+<path id="speaker" class="st3" d="M235.3,58.9h-54c-1.9,0-3.5-1.6-3.5-3.5v0c0-1.9,1.6-3.5,3.5-3.5h54c1.9,0,3.5,1.6,3.5,3.5v0
+	C238.8,57.4,237.2,58.9,235.3,58.9z"/>
+<circle id="front-camera" class="st3" cx="156.2" cy="55.4" r="4.9"/>
+<path class="st4" d="M3.8,104v30.9 M3.8,171.9v56.5 M3.8,239v56.5 M412.7,171.9v56.5"/>
+</svg>

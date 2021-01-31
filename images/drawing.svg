@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 299 668.7" style="enable-background:new 0 0 299 668.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:9;stroke-miterlimit:10;}
+	.st3{fill:#231F20;stroke:#FFFFFF;stroke-miterlimit:10;}
+
+	#black-bg-a { cursor: pointer; }
+  #black-bg-a:hover { fill: #ff761a !important; }
+
+	#black-bg-b { cursor: pointer; }
+  #black-bg-b:hover { fill: #ff761a !important; }
+</style>
+<g id="artboard">
+	<path id="black-bg-a" class="st0" d="M272.4,388.4h-246V50.5h246V388.4z M285.2,388.4H13.6v11.5h271.6V388.4z M285.2,488.7H13.6
+		v30.1h271.6V488.7z M202,39H96.8v11.5H202V39z M70.7,399.9H42.2L0,668.7h28.6L70.7,399.9z M258.8,399.9h-28.6l40.1,268.8h28.6
+		L258.8,399.9z M162,399.9h-25.1v174.3H162V399.9z M162,0h-25.1v39H162V0z"/>
+	<path id="lines" class="st1" d="M24.2,388.4h250.5 M26.4,50.5h246"/>
+	<path id="drawing" class="st2" d="M75.7,157.4c0,0,28.7-32.3,28.7,17.7c0,37.2,34.8,2.8,40.9,6.7c0,0,16.5,3.3,0,23.3
+		s27.5-2.1,27.5-2.1"/>
+</g>
+<g id="brush">
+	<path id="black-bg-b" class="st3" d="M298.9,249.5l-110.4-33.8l-4.7-4.2l1-2.9 M298.9,249.5l-106.7-44l-6.3,0.3l-1,2.9
+		 M184.9,205.4c0,0-3.2-9.1-14.1-6.7c-5.1,1.2-7.6,4.6-7.6,4.6s4.9-1.2,7.1,3c0.9,1.7,4.8,7.7,12.5,4.9L184.9,205.4z"/>
+</g>
+</svg>
