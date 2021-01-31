@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="guitar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 710.8 706.8" style="enable-background:new 0 0 710.8 706.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.9746;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:2.0866;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:0.983;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2.3012;stroke-miterlimit:10;}
+
+	#black-bg { cursor: pointer; }
+  #black-bg:hover { fill: #ff761a !important; }
+</style>
+<path id="black-bg" class="st0" d="M598.7,82.4L371.8,300.7c0,0-70.2-82.1-125.8-26.6c0,0-22.5,23-35.1,57
+	c-12.6,33.9-104.4,37-140.5,63.1C34.3,420.3,8.7,437.4,2.1,494.9s70.5,131.7,70.5,131.7s79.3,78.8,146.9,78.5
+	c67.6-0.2,99.2-91.6,99.2-91.6s23.7-97.3,58.6-120.8s46.5-28,60.5-44.9s37.5-44.6-29.4-111.5l217.4-226.9l4.4,4.4l12-10.4l12.3,12.3
+	l9.9-9.7l-11.9-11.9l11.6-9.9l12.3,12.3l8.5-8.5l-11.8-11.8l12.5-9.5l12,12l8.9-8.8l-11.8-11.8c0,0,29.8-18.9,3.5-45.2
+	s-45.6,1.6-45.6,1.6L642.3,4.1l-9,9l10.6,10.6l-9.4,11l-10.2-10.2l-8.6,8.6L626.5,44l-11.8,14L604,47.2l-8.9,8.9l11.5,11.5
+	l-10.3,12.3L598.7,82.4z"/>
+<g id="hole">
+	<circle id="circle1" class="st1" cx="297" cy="408.7" r="42"/>
+	<circle id="circle2" class="st2" cx="297" cy="408.7" r="44"/>
+	<circle id="circle3" class="st3" cx="297" cy="408.7" r="47.4"/>
+	<circle id="circle4" class="st4" cx="297" cy="408.7" r="51"/>
+</g>
+<path id="bridge" class="st5" d="M222.3,557.1l-73.8-73.8c-4.7-4.7-4.7-12.3,0-17l2.5-2.5c4.7-4.7,12.3-4.7,17,0l73.8,73.8
+	c4.7,4.7,4.7,12.3,0,17l-2.5,2.5C234.7,561.8,227,561.8,222.3,557.1z"/>
+<path id="capstan_1_" class="st1" d="M622.2,75.7c-2,2-5.3,2-7.3,0s-2-5.3,0-7.3s5.3-2,7.3,0C624.2,70.4,624.2,73.7,622.2,75.7z
+	 M642,88.2c-2-2-5.3-2-7.3,0s-2,5.3,0,7.3s5.3,2,7.3,0S644,90.2,642,88.2z M663.3,66.8c-2-2-5.3-2-7.3,0s-2,5.3,0,7.3s5.3,2,7.3,0
+	C665.4,72.1,665.4,68.8,663.3,66.8z M682.3,47.9c-2-2-5.3-2-7.3,0s-2,5.3,0,7.3s5.3,2,7.3,0S684.3,49.9,682.3,47.9z M661.3,27
+	c-2-2-5.3-2-7.3,0s-2,5.3,0,7.3s5.3,2,7.3,0C663.4,32.3,663.4,29,661.3,27z M642.4,45.9c-2-2-5.3-2-7.3,0s-2,5.3,0,7.3s5.3,2,7.3,0
+	S644.4,47.9,642.4,45.9z"/>
+</svg>

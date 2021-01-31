@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="dumbbells" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 418.4 218.6" style="enable-background:new 0 0 418.4 218.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+	.st1{fill:#231F20;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+
+	#black-bg-o { cursor: pointer; }
+  #black-bg-o:hover { fill: #ff761a !important; }
+
+	#black-bg-t { cursor: pointer; }
+  #black-bg-t:hover { fill: #ff761a !important; }
+</style>
+<path id="black-bg-o" class="st0" d="M280.4,84h-60l-14.2,46.6c-6.6-1.3-12.5-2.4-15.8-2.7c-9.1-0.9-63.4-1.6-74.1,0
+	c-4.5,0.7-11.7,2-19.2,3.5L82.7,84h-60L0,140.9l22.7,57h60l14.4-47.3c7.5,1.5,14.6,2.7,19.2,3.2c14.2,1.6,67.9,1.3,74.1,0
+	c3.1-0.7,8.9-1.8,15.6-3.2l14.4,47.2h60l22.7-57L280.4,84z"/>
+<path id="black-bg-t" class="st1" d="M417.4,115.3l-53.8-26.5l-33.4,35.5c-5.4-4.1-10.2-7.7-13-9.4c-7.7-4.8-56.1-29.5-66.5-32.8
+	c-4.4-1.4-11.3-3.4-18.7-5.4l8-48.8L186.4,1.2l-45.6,41l-4.8,61.1l53.8,26.5l33.9-36c6.1,4.6,11.9,8.9,15.8,11.4
+	c12,7.7,60.3,31.3,66.5,32.8c3.1,0.8,8.8,2.3,15.4,4l-8,48.7l53.8,26.5l45.6-41L417.4,115.3z"/>
+</svg>
